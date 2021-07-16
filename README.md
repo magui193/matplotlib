@@ -16,5 +16,5 @@
 
 #### 3. From the graphic below, I can conclude that the Capomulin and Ramicane drug regimens are the most effective in reducing the mice's tumor volume.
 
-![](Images/Box.png)
+![](Images/box.png)
 
